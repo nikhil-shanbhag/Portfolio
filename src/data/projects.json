@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Netflix UI clone",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Tailwind", "Firebase"],
+    "demo": "https://netflix-preview-firebase.netlify.app",
+    "source": "https://github.com/nikhil-shanbhag/Netflixfirebase"
+  },
+  {
+    "title": "Personal blog website",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Redux", "Tailwind", "Appwrite"],
+    "demo": "https://blog-preview-appwrite.netlify.app",
+    "source": "https://github.com/nikhil-shanbhag/Blogappwrite"
+  },
+  {
+    "title": "E-commerece website",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "CSS","Firebase"],
+    "demo": "https://e-commerce-preview-firebase.netlify.app/",
+    "source": "https://github.com/nikhil-shanbhag/E-commercefirebase"
+  }
+]
